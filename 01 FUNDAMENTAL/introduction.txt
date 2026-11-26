@@ -1,0 +1,20 @@
+1) what is python??
+-> python is a high-level programming language.
+
+2) what is programming??
+-> programming is set of instractions.
+
+3) what is high - level programming language??
+-> high - level programming language means, human readable language, which we can understand easily.
+
+4) what is compiler??
+-> compiler is a programming software, which help us to convert high-level language in to machine language. also known as transalator
+
+5) what is interpreter??
+-> interpreter is a programming software, which help us to convert high-level language in to machine language. also known as transalator
+
+6) differents between compiler and interpreter??
+->
+
+7)
+

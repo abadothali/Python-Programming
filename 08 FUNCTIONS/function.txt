@@ -1,0 +1,14 @@
+------------------------ ALL ABOUT FUNCTION -----------------------------
+Q) What is function??
+=> Function is a reuseable block of code.
+
+Q) Syantax of function
+=> 
+# Function Defination -
+def function_name():
+    set of instracton
+
+# Function Call -
+function_name()
+
+Q) 
