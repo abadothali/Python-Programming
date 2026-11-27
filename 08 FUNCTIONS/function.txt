@@ -1,14 +1,56 @@
 ------------------------ ALL ABOUT FUNCTION -----------------------------
 Q) What is function??
-=> Function is a reuseable block of code.
+-> Function is a reuseable block of code. which perform a particular task.
+-> Function take inputs from the user and return output.
 
-Q) Syantax of function
-=> 
+Q) Syantax of function??
 # Function Defination -
-def function_name():
+  def function_name():
     set of instracton
 
 # Function Call -
-function_name()
+  function_name()
 
-Q) 
+Q) What is Parameter??
+-> Parameter is values in function Defination
+-> def greet(message)
+-> here message is paremeter
+
+Q) What is Arguments??
+-> Arguments is actual values in function calling.
+-> greet("hello world!")
+
+Q) What is default arguments??
+-> A default argument is a value assigned to a function parameter. If the user does not provide a value when calling the function, Python automatically uses the default value.
+-> def namePrint(name="monirul"):
+-> here in function defined name = "monirul" it's default arguments.
+
+Q) What is Keyword Arguments??
+-> Keyword arguments are arguments passed to a function by specifying the parameter name along with its value.
+-> Keyword arguments are useful because they make our function calls clear, flexible, and easier to understand.
+-> def msg(name,age)
+-> msg(name="monirul",age=25)
+-> here in function call name ="monirul" and age = 25 is keyword arguments.
+-> it's specifying values.
+
+Q) *Arguments??
+-> Collects the positional arguments into a tuple.
+-> Used when we don't know how many positional arguments will be passed.
+-> Code:
+   def add(*args):
+    print(args)
+    print(sum(args))
+
+   add(10, 20, 30, 40)
+
+Q) **Keywords Arguments??
+-> Collects the keyword arguments into a dictionary.
+-> Used when we don't know how many keyword arguments will be passed.
+-> Code:
+   def student(**kwargs):
+    print(kwargs)
+
+   student(name="Abadoth", age=25, marks=85)
+
+
+
