@@ -14,7 +14,6 @@
 -> interpreter is a programming software, which help us to convert high-level language in to machine language. also known as transalator
 
 6) differents between compiler and interpreter??
-->
+-> A compiler translates an entire program into machine code before it runs, whereas an interpreter translates and executes code line by line while the program runs
 
-7)
 
