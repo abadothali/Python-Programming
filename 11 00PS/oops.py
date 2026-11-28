@@ -1,6 +1,6 @@
 # OBJECT ORIENTED PROGRAMMING -
 
-# Q) Wat Is Class??
+# Q) What Is Class??
 # -> Class is a collection of property and methods of an object. or we can say it's blueprint of an object.
 
 

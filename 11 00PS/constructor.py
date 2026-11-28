@@ -5,6 +5,7 @@
 # Example:
 class Student:
 
+  # Constructor -
   def __init__(self):
     print("Constructor runs automatically...")
 

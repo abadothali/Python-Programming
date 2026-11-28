@@ -1,4 +1,5 @@
-# Inheritance -
+# Q) Inheritance??
+# -> Inherit attributes (variables or data) and methods parent class to child class.
 
 class Car:
     @staticmethod
